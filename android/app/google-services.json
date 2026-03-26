@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010428449178",
+    "project_id": "rumour-90460",
+    "storage_bucket": "rumour-90460.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010428449178:android:285985944c5d02ee242a23",
+        "android_client_info": {
+          "package_name": "com.example.rumour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu5QyCA5ANCFv9N_H1QqFxzVDWE1tE20s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
