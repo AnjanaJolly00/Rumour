@@ -20,7 +20,7 @@ A Flutter-based real-time messaging application with Firebase backend integratio
 
 ## Demo
 
-Watch the app in action: [View Demo Video](https://www.youtube.com/watch?v=demo)
+Watch the app in action: https://drive.google.com/file/d/15oCWy9oqJmalJhJr7iJEZugb2f7dAMj6/view?usp=sharing
 
 ## Codebase Structure
 
