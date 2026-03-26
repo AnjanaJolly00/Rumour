@@ -17,9 +17,22 @@ class _ChatScreenState extends State<ChatScreen> {
   late ChatController controller;
 
   @override
+  @override
   void initState() {
     super.initState();
-    controller = Get.put(ChatController(), permanent: false);
+    controller = Get.put(ChatController());
+
+    ever(controller.isLoadingInitial, (loading) {
+      if (loading == false) {
+        Future.delayed(const Duration(milliseconds: 100), () {
+          if (controller.scrollController.hasClients) {
+            controller.scrollController.jumpTo(
+              controller.scrollController.position.maxScrollExtent,
+            );
+          }
+        });
+      }
+    });
   }
 
   @override

@@ -18,6 +18,10 @@ A Flutter-based real-time messaging application with Firebase backend integratio
 - **Local Storage**: Shared Preferences
 - **Utilities**: DIO (HTTP), UUID, Intl (Internationalization), Google Fonts
 
+## Demo
+
+Watch the app in action: [View Demo Video](https://www.youtube.com/watch?v=demo)
+
 ## Codebase Structure
 
 lib/
