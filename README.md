@@ -129,7 +129,7 @@ flutter run
 flutter build apk
 ```
 
-**Download Latest APK**: [Download APK](https://github.com/AnjanaJolly00/Rumour/releases/latest/download/app-release.apk)
+**Download Latest APK**: (https://drive.google.com/file/d/16l3zDkGTqI-djH9kJ-uX7yWkFGJIIeW3/view?usp=sharing)
 
 ## Project Architecture
 
