@@ -129,6 +129,8 @@ flutter run
 flutter build apk
 ```
 
+**Download Latest APK**: [Download APK](https://github.com/AnjanaJolly00/Rumour/releases/latest/download/app-release.apk)
+
 ## Project Architecture
 
 This project follows a clean architecture pattern:
